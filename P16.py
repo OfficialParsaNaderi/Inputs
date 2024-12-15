@@ -1,0 +1,15 @@
+from os import system
+system("cls")
+number1=input("enter your number: ")
+number2=input("enter your number: ")
+number3=3
+number4=2
+result1=(int(number1)*int(number2))+(number3)-(number4)
+name=input("name")
+number5=input(" possible answer")
+result2=(name)
+number6=input("How are you ?")
+result3=("I'm happy becuase you good")
+print("result1:",result1)
+print("result2:",result2)
+print("result3:",result3)
